@@ -44,8 +44,8 @@ for (int t = 0; t < N - 2; t++) {
 >Student discusses the reasoning behind the chosen N (timestep length) and dt (elapsed duration between timesteps) values. Additionally the student details the previous values tried.
 
 - In this project, the latency is set to 100ms. So, I set dt as 0.1s.
-- I set T as 1.5s because the surrounding enviroment change quickly.
-- As a result, I set N as 15.
+- I set T as 1.2s because the surrounding enviroment change quickly.
+- As a result, I set N as 12.
 
 ## Polynomial Fitting and MPC Preprocessing & Model Predictive Control with Latency
 
