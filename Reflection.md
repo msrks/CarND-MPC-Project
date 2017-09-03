@@ -2,9 +2,9 @@
 
 >Student describes their model in detail. This includes the state, actuators and update equations.
 
-state: `[px, py, psi, v, cte, epsi]``
+state: `[px, py, psi, v, cte, epsi]`
 
-actuators: `[steering angle, throttle]``
+actuators: `[steering angle, throttle]`
 
 update equations:
 
