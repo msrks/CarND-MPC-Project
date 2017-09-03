@@ -65,4 +65,4 @@ I used 3rd order of polynomial fit.
 
 ## The vehicle must successfully drive a lap around the track.
 
-http://hogehoge.com
+https://youtu.be/crViJh3y3DQ
